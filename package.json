@@ -1,7 +1,7 @@
 {
   "name": "com.akilar-liao.custom-common",
   "description": "A custom common library for URP usage",
-  "version": "1.0.0",
+  "version": "1.0.0-preview.1",
   "unity": "2021.3",  
   "displayName": "CustomCommonLibrary",    
   "dependencies": {	
