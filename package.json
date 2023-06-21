@@ -1,5 +1,5 @@
 {
-  "name": "com.akilar-liao.custom-common",
+  "name": "com.akilar-liao.module.custom-common",
   "description": "A custom common library for URP usage",
   "version": "1.0.0",
   "unity": "2021.3",  
